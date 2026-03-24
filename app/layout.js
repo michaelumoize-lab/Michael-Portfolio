@@ -20,11 +20,11 @@ export const metadata = {
     title: "Michael Umoize | Full Stack Developer",
     description:
       "Full-stack developer passionate about creating innovative and efficient web solutions.",
-    url: "https://your-domain.com",
+    url: "https://michael-portfolio-dev.vercel.app",
     siteName: "Michael Umoize Portfolio",
     images: [
       {
-        url: "https://your-domain.com/og-image.jpg",
+        url: "/og-image.png",
         width: 1200,
         height: 630,
         alt: "Michael Umoize - Full Stack Developer",
@@ -38,7 +38,7 @@ export const metadata = {
     title: "Michael Umoize | Full Stack Developer",
     description:
       "Full-stack developer passionate about creating innovative and efficient web solutions.",
-    images: ["https://your-domain.com/og-image.jpg"],
+    images: ["/og-image.png"],
     creator: "@miketech_90",
   },
   robots: {
